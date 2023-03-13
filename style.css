@@ -1,0 +1,39 @@
+
+.Box1{
+    width: 30px;
+    height: 40px;
+    padding: 15%;
+    position: static;
+}
+.Box2{
+    width: 30px;
+    height: 20px;
+    position: fixed;
+    top:300px;
+    left:300px;
+
+    
+}
+.Box3{
+    width: 20px;
+    height: 250px;
+    position: fixed;
+    top: 300px;
+    left: 300px;
+   
+}
+.nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.fex{
+    
+    display: flex;
+}
+.flex{
+    
+    display:flex ;
+}
+
